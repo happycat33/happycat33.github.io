@@ -1,7 +1,8 @@
 html, body {
     margin: 0;
+    margin-left: 1%;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
+    background-color: lightblue;
+    color: black;
   }
